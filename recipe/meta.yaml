@@ -1,4 +1,4 @@
-{% set version = "16.6.6" %}
+{% set version = "17.0.0" %}
 
 package:
   name: keeper-secrets-manager-core
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/k/keeper-secrets-manager-core/keeper_secrets_manager_core-{{ version }}.tar.gz
-  sha256: bda9e733908b34edbac956825fc062e6934894f210d49b0bba1679d167d7be80
+  sha256: f821d114b44ecd992870f4661d1daa5c50901d4abcc6d52c37926c372396d31c
 
 build:
   number: 0
