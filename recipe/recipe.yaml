@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "17.2.0"
+  version: "17.2.1"
 
 package:
   name: keeper-secrets-manager-core
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/k/keeper-secrets-manager-core/keeper_secrets_manager_core-${{ version }}.tar.gz
-  sha256: b9a6e0f078935577d09d0c401bd105d657933a9dc86336a7774a9273ae0c88b7
+  sha256: 2414abf10711f7f6918edb47454706986a08099affbfeb92b1fad626cb37dd11
 
 build:
   number: 0
